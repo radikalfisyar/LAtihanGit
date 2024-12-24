@@ -1,1 +1,1 @@
-# LAtihanGit
+# LatihanGit
